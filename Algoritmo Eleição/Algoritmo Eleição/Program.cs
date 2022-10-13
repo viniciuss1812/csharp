@@ -30,13 +30,15 @@ namespace Algoritmo_Eleição
                 else qntnulo = qntnulo + 1;
 
                 Console.WriteLine("Deseja continuar? { sim  / não }");
-                string resposta = Console.ReadLine(); 
+                string resposta = Console.ReadLine();
+                //if (resposta == "sim")  { continuar = true; } else { continuar = false; };
+                if (resposta == "sim") { continuar = true; } else { continuar = false; };
 
 
 
 
             }
-
+             //próximalinha
 
         }
     }
