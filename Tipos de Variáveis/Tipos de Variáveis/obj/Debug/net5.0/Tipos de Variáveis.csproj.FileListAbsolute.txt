@@ -1,0 +1,16 @@
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\bin\Debug\net5.0\Tipos de Variáveis.exe
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\bin\Debug\net5.0\Tipos de Variáveis.deps.json
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\bin\Debug\net5.0\Tipos de Variáveis.runtimeconfig.json
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\bin\Debug\net5.0\Tipos de Variáveis.runtimeconfig.dev.json
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\bin\Debug\net5.0\Tipos de Variáveis.dll
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\bin\Debug\net5.0\ref\Tipos de Variáveis.dll
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\bin\Debug\net5.0\Tipos de Variáveis.pdb
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\obj\Debug\net5.0\Tipos de Variáveis.csproj.AssemblyReference.cache
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\obj\Debug\net5.0\Tipos de Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\obj\Debug\net5.0\Tipos de Variáveis.AssemblyInfoInputs.cache
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\obj\Debug\net5.0\Tipos de Variáveis.AssemblyInfo.cs
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\obj\Debug\net5.0\Tipos de Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\obj\Debug\net5.0\Tipos de Variáveis.dll
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\obj\Debug\net5.0\ref\Tipos de Variáveis.dll
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\obj\Debug\net5.0\Tipos de Variáveis.pdb
+C:\Users\android\Documents\github vinicius\Tipos de Variáveis\Tipos de Variáveis\obj\Debug\net5.0\Tipos de Variáveis.genruntimeconfig.cache
