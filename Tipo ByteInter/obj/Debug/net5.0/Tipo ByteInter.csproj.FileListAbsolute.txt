@@ -1,0 +1,16 @@
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\bin\Debug\net5.0\Tipo ByteInter.exe
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\bin\Debug\net5.0\Tipo ByteInter.deps.json
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\bin\Debug\net5.0\Tipo ByteInter.runtimeconfig.json
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\bin\Debug\net5.0\Tipo ByteInter.runtimeconfig.dev.json
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\bin\Debug\net5.0\Tipo ByteInter.dll
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\bin\Debug\net5.0\ref\Tipo ByteInter.dll
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\bin\Debug\net5.0\Tipo ByteInter.pdb
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\obj\Debug\net5.0\Tipo ByteInter.csproj.AssemblyReference.cache
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\obj\Debug\net5.0\Tipo ByteInter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\obj\Debug\net5.0\Tipo ByteInter.AssemblyInfoInputs.cache
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\obj\Debug\net5.0\Tipo ByteInter.AssemblyInfo.cs
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\obj\Debug\net5.0\Tipo ByteInter.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\obj\Debug\net5.0\Tipo ByteInter.dll
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\obj\Debug\net5.0\ref\Tipo ByteInter.dll
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\obj\Debug\net5.0\Tipo ByteInter.pdb
+C:\Users\android\Documents\github vinicius\csharp\Tipos de Variáveis\Tipo ByteInter\obj\Debug\net5.0\Tipo ByteInter.genruntimeconfig.cache
