@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "programa que leia o quadrado e exiba o perímetro/1.0.0": {
+        "runtime": {
+          "programa que leia o quadrado e exiba o perímetro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "programa que leia o quadrado e exiba o perímetro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

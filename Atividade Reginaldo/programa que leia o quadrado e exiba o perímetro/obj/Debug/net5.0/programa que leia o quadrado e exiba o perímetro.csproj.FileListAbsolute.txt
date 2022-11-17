@@ -1,0 +1,16 @@
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\bin\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.exe
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\bin\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.deps.json
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\bin\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.runtimeconfig.json
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\bin\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.runtimeconfig.dev.json
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\bin\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.dll
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\bin\Debug\net5.0\ref\programa que leia o quadrado e exiba o perímetro.dll
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\bin\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\obj\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.csproj.AssemblyReference.cache
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\obj\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\obj\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\obj\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.AssemblyInfo.cs
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\obj\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\obj\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.dll
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\obj\Debug\net5.0\ref\programa que leia o quadrado e exiba o perímetro.dll
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\obj\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\programa que leia o quadrado e exiba o perímetro\obj\Debug\net5.0\programa que leia o quadrado e exiba o perímetro.genruntimeconfig.cache

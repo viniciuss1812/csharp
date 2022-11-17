@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "valor de a,b,c equação segundo grau/1.0.0": {
+        "runtime": {
+          "valor de a,b,c equação segundo grau.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "valor de a,b,c equação segundo grau/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

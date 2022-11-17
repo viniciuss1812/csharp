@@ -1,0 +1,16 @@
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\bin\Debug\net5.0\valor de a,b,c equação segundo grau.exe
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\bin\Debug\net5.0\valor de a,b,c equação segundo grau.deps.json
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\bin\Debug\net5.0\valor de a,b,c equação segundo grau.runtimeconfig.json
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\bin\Debug\net5.0\valor de a,b,c equação segundo grau.runtimeconfig.dev.json
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\bin\Debug\net5.0\valor de a,b,c equação segundo grau.dll
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\bin\Debug\net5.0\ref\valor de a,b,c equação segundo grau.dll
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\bin\Debug\net5.0\valor de a,b,c equação segundo grau.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\obj\Debug\net5.0\valor de a,b,c equação segundo grau.csproj.AssemblyReference.cache
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\obj\Debug\net5.0\valor de a,b,c equação segundo grau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\obj\Debug\net5.0\valor de a,b,c equação segundo grau.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\obj\Debug\net5.0\valor de a,b,c equação segundo grau.AssemblyInfo.cs
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\obj\Debug\net5.0\valor de a,b,c equação segundo grau.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\obj\Debug\net5.0\valor de a,b,c equação segundo grau.dll
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\obj\Debug\net5.0\ref\valor de a,b,c equação segundo grau.dll
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\obj\Debug\net5.0\valor de a,b,c equação segundo grau.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\valor de a,b,c equação segundo grau\obj\Debug\net5.0\valor de a,b,c equação segundo grau.genruntimeconfig.cache

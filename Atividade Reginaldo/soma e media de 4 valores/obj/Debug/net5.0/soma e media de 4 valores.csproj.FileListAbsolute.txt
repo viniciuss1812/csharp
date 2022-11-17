@@ -1,0 +1,16 @@
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\bin\Debug\net5.0\soma e media de 4 valores.exe
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\bin\Debug\net5.0\soma e media de 4 valores.deps.json
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\bin\Debug\net5.0\soma e media de 4 valores.runtimeconfig.json
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\bin\Debug\net5.0\soma e media de 4 valores.runtimeconfig.dev.json
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\bin\Debug\net5.0\soma e media de 4 valores.dll
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\bin\Debug\net5.0\ref\soma e media de 4 valores.dll
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\bin\Debug\net5.0\soma e media de 4 valores.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\obj\Debug\net5.0\soma e media de 4 valores.csproj.AssemblyReference.cache
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\obj\Debug\net5.0\soma e media de 4 valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\obj\Debug\net5.0\soma e media de 4 valores.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\obj\Debug\net5.0\soma e media de 4 valores.AssemblyInfo.cs
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\obj\Debug\net5.0\soma e media de 4 valores.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\obj\Debug\net5.0\soma e media de 4 valores.dll
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\obj\Debug\net5.0\ref\soma e media de 4 valores.dll
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\obj\Debug\net5.0\soma e media de 4 valores.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\soma e media de 4 valores\obj\Debug\net5.0\soma e media de 4 valores.genruntimeconfig.cache

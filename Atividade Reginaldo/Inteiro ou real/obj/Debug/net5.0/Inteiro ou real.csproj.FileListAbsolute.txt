@@ -1,0 +1,16 @@
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\bin\Debug\net5.0\Inteiro ou real.exe
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\bin\Debug\net5.0\Inteiro ou real.deps.json
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\bin\Debug\net5.0\Inteiro ou real.runtimeconfig.json
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\bin\Debug\net5.0\Inteiro ou real.runtimeconfig.dev.json
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\bin\Debug\net5.0\Inteiro ou real.dll
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\bin\Debug\net5.0\ref\Inteiro ou real.dll
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\bin\Debug\net5.0\Inteiro ou real.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\obj\Debug\net5.0\Inteiro ou real.csproj.AssemblyReference.cache
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\obj\Debug\net5.0\Inteiro ou real.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\obj\Debug\net5.0\Inteiro ou real.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\obj\Debug\net5.0\Inteiro ou real.AssemblyInfo.cs
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\obj\Debug\net5.0\Inteiro ou real.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\obj\Debug\net5.0\Inteiro ou real.dll
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\obj\Debug\net5.0\ref\Inteiro ou real.dll
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\obj\Debug\net5.0\Inteiro ou real.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\Inteiro ou real\obj\Debug\net5.0\Inteiro ou real.genruntimeconfig.cache

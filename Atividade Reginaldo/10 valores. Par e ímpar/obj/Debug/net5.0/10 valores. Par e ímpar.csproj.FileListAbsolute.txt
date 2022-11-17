@@ -1,0 +1,16 @@
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\obj\Debug\net5.0\10 valores. Par e ímpar.csproj.AssemblyReference.cache
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\obj\Debug\net5.0\10 valores. Par e ímpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\obj\Debug\net5.0\10 valores. Par e ímpar.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\obj\Debug\net5.0\10 valores. Par e ímpar.AssemblyInfo.cs
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\obj\Debug\net5.0\10 valores. Par e ímpar.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\bin\Debug\net5.0\10 valores. Par e ímpar.exe
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\bin\Debug\net5.0\10 valores. Par e ímpar.deps.json
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\bin\Debug\net5.0\10 valores. Par e ímpar.runtimeconfig.json
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\bin\Debug\net5.0\10 valores. Par e ímpar.runtimeconfig.dev.json
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\bin\Debug\net5.0\10 valores. Par e ímpar.dll
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\bin\Debug\net5.0\ref\10 valores. Par e ímpar.dll
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\bin\Debug\net5.0\10 valores. Par e ímpar.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\obj\Debug\net5.0\10 valores. Par e ímpar.dll
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\obj\Debug\net5.0\ref\10 valores. Par e ímpar.dll
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\obj\Debug\net5.0\10 valores. Par e ímpar.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\10 valores. Par e ímpar\obj\Debug\net5.0\10 valores. Par e ímpar.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\bin\Debug\net5.0\Altura e Largura de um triangulo.exe
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\bin\Debug\net5.0\Altura e Largura de um triangulo.deps.json
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\bin\Debug\net5.0\Altura e Largura de um triangulo.runtimeconfig.json
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\bin\Debug\net5.0\Altura e Largura de um triangulo.runtimeconfig.dev.json
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\bin\Debug\net5.0\Altura e Largura de um triangulo.dll
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\bin\Debug\net5.0\ref\Altura e Largura de um triangulo.dll
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\bin\Debug\net5.0\Altura e Largura de um triangulo.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\obj\Debug\net5.0\Altura e Largura de um triangulo.csproj.AssemblyReference.cache
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\obj\Debug\net5.0\Altura e Largura de um triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\obj\Debug\net5.0\Altura e Largura de um triangulo.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\obj\Debug\net5.0\Altura e Largura de um triangulo.AssemblyInfo.cs
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\obj\Debug\net5.0\Altura e Largura de um triangulo.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\obj\Debug\net5.0\Altura e Largura de um triangulo.dll
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\obj\Debug\net5.0\ref\Altura e Largura de um triangulo.dll
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\obj\Debug\net5.0\Altura e Largura de um triangulo.pdb
+C:\Users\android\source\repos\Atividade Reginaldo\Altura e Largura de um triangulo\obj\Debug\net5.0\Altura e Largura de um triangulo.genruntimeconfig.cache

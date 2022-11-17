@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Altura e Largura de um triangulo/1.0.0": {
+        "runtime": {
+          "Altura e Largura de um triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Altura e Largura de um triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
